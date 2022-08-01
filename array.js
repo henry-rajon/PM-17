@@ -27,6 +27,11 @@ var positionIndexAge = friendAge.indexOf(75);
 var positionIndexName = friendsName.indexOf("Petni");
 // console.log(positionIndexName);
 
+var Name = friendsName[3];
+// console.log(name);
+
+var age = friendAge[2];
+// console.log(age);
 
 // Change Of Array Name
 friendAge[1] = 60;
@@ -35,3 +40,6 @@ friendAge[5] = 100;
 
 friendsName[2] = "Best Friend";
 // console.log(friendsName)
+
+// console.log(6 != 6);
+console.log(6 >= 6);
